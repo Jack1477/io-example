@@ -1,4 +1,4 @@
-package simple;
+package com.retzero.nio.simple;
 
 /**
  * @author JackJun

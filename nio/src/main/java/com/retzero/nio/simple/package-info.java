@@ -4,4 +4,4 @@
  * Life is not just about survival.
  * 请注意！当前包中的NIO忽略了粘包问题！
  */
-package simple;
+package com.retzero.nio.simple;
